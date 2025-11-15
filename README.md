@@ -25,7 +25,7 @@ GEC is a novel framework for suicide risk detection that incorporates both globa
 Clone this repository:
 
 ```
-git clone https://github.com/your-username/GEC-Suicide-Risk-Detection.git
+git clone https://github.com/learninggggggg/GEC-Suicide-Risk-Detection.git
 cd GEC-Suicide-Risk-Detection
 ```
 
@@ -153,5 +153,6 @@ ablation_results = [
 
 [//]: # ()
 [//]: # (Contact)
+
 
 [//]: # (For questions about this codebase, please open an issue on GitHub or contact [Your Name] at [your.email@institution.edu].)
