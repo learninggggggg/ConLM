@@ -1,4 +1,4 @@
-# GEC: A Global and Emotion-Consistent Context Modeling Framework for Suicide Risk Detection
+# GECConL: A Global and Emotion Coherence-Based Context Learning Model for Suicide Risk Detection
 
 [//]: # (<a href='#'><img src='https://img.shields.io/badge/Paper-PDF-blue'></a>)
 
@@ -6,7 +6,7 @@
 <a href='#'><img src='https://img.shields.io/badge/Language-Python-yellow'></a>
 <a href='#'><img src='https://img.shields.io/badge/Framework-PyTorch-red'></a>
 
-[Zhuping Ding](), [Yongpan Sheng](),[Lirong He](), [Yiran Wang](), and [Ming Liu]()
+[Zhuping Ding](), [Yongpan Sheng](),[Yiran Wang](), [Lirong He](), and [Ming Liu]()
 
 ## Release
 - [11/25] Initial release of GEC codebase for suicide risk detection.
@@ -156,3 +156,4 @@ ablation_results = [
 
 
 [//]: # (For questions about this codebase, please open an issue on GitHub or contact [Your Name] at [your.email@institution.edu].)
+
