@@ -6,7 +6,7 @@
 <a href='#'><img src='https://img.shields.io/badge/Language-Python-yellow'></a>
 <a href='#'><img src='https://img.shields.io/badge/Framework-PyTorch-red'></a>
 
-[Zhuping Ding](), [Yongpan Sheng](), [Yiran Wang](), [Lirong He](), and [Ming Liu]()
+[Zhuping Ding](), [Yongpan Sheng](https://shengyp.github.io/), [Yiran Wang](), [Lirong He](https://lironghuo.github.io/), and [Ming Liu](https://experts.deakin.edu.au/46451-ming-liu)
 
 ## Release
 - [11/25] Initial release of GEC codebase for suicide risk detection.
@@ -156,5 +156,6 @@ ablation_results = [
 
 
 [//]: # (For questions about this codebase, please open an issue on GitHub or contact [Your Name] at [your.email@institution.edu].)
+
 
 
